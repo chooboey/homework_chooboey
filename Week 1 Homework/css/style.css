@@ -1,0 +1,42 @@
+body {
+    font-family: Arial;
+    background-color: lightblue;
+    background-image: url(http://wallup.net/wp-content/uploads/2016/03/09/318941-abstract-glitch_art-trippy-triangle-nature-lights-natural_lighting-photoshopped-landscape-stars-dark_fantasy.png);
+}
+
+h1 {
+    border: 1px solid #999;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+h3 {
+	border: 1px solid grey;
+	border-radius: 15px;
+	padding: 10px;
+	opacity: 50%;
+}
+
+p {
+	margin-left: 10px;
+}
+
+li {
+    border: 1px solid #DDD;
+}
+
+ol {
+    border: 1px solid #333;
+}
+
+img {
+	position: center;
+}
+
+.floatRight {
+	float: right;
+}
+
+.floatLeft {
+	float: left;
+}
