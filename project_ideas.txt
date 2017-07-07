@@ -1,0 +1,22 @@
+Come up with 2-3 ideas for a final project.
+
+Final project should have HTML, CSS and JavaScript.
+
+Your JavaScript will need at least 5 events
+
+Really want to be sure to incorporate shopping cart functionality as that’s a desired skill. Not sure how feasible the below is for a few weeks, can trim down if necessary. I’m working under the assumption there’s a lot of templates that handle these things..
+
+Idea #1
+Title: Music/Event Promo
+One Sentence Description: Your typical album release / tour announcement
+Details: Home page with news, merch, dates, purchasable tickets, contact, etc. Here’s a good example: https://uknowbigsean.com/
+
+Idea #2
+Title: Clothing
+One Sentence Description: Your typical clothing store, but more lookbook based.
+Details: Idea is to have the store content not necessarily product photos but lookbook photos that are tagged, and when you click an item on the page, it pulls up other photos that have that piece. Or maybe it can be tagged like instagram tags. But contains cart functionality, modal, and typical pages on a clothing store - location, newsletter, about, shopping cart, etc.
+
+Idea #3 (Optional)
+Title: Daily To-Do List (quick side one i’d like to do on my own anyways) 
+One Sentence Description: On loading of browser a pre-defined daily to do list pops up.
+Details: On homepage of chrome load up a to-do list that you created that you can check off and clears on a daily basis. Also serves up one link from a bank that you store and tells you to go visit it (just another to do, but randomizes essentially). I already have an extension that serves something similar. Some of the daily items would be like… “go somewhere new, save some money, practice instrument” and something that randomly feeds is like… “watch this: [link], research and choose new speakers: [link]”
