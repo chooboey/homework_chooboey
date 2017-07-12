@@ -1,3 +1,7 @@
+###NOTES###
+GREAT IDEAS! All are very doable. At this point pick one and start. Come up with each of the pages you want and start to think about images/templates.
+
+
 Come up with 2-3 ideas for a final project.
 
 Final project should have HTML, CSS and JavaScript.
