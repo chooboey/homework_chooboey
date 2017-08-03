@@ -108,16 +108,14 @@ var cities = ["Los Angeles, CA", "San Jose, CA", "San Diego, CA"]
 var dates = ["8/1", "8/2", "8/3"]
 var links = ["www.ticketmaster1.com","www.ticketmaster2.com","www.ticketmaster3.com"]
 
-var string = "";
-
 $.each(cities, function(index, value){
-	  string += '<tr>';
-	  string +=   '<th>'+cities[index]+'</th>';
-	  string +=   '<th>'+dates[index]+'</th>'; 
-	  string +=	  '<th><button href="'+links[index]+'">Buy Tickets</button></th>';
-	  string +=	'</tr>';
-	  $('#tourDates').html(string);
-	console.log(string)
+    var string = "";
+    string += '<tr>';
+    string +=   '<th>'+cities[index]+'</th>';
+    string +=   '<th>'+dates[index]+'</th>'; 
+    string +=	  '<th><button href="'+links[index]+'">Buy Tickets</button></th>';
+    string +=	'</tr>';
+    $('#tourDates').append(string);
 });
 
 $('.launch-modal').on('click', function(e){
