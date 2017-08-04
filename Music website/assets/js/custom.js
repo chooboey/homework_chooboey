@@ -106,7 +106,7 @@ $(window).scroll(function(){
 
 var cities = ["Los Angeles, CA", "San Jose, CA", "San Diego, CA"]
 var dates = ["8/1", "8/2", "8/3"]
-var links = ["www.ticketmaster1.com","www.ticketmaster2.com","www.ticketmaster3.com"]
+var links = ["www.ticketmaster.com","www.ticketmaster.com","www.ticketmaster.com"]
 
 $.each(cities, function(index, value){
     var string = "";
